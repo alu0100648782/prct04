@@ -1,3 +1,6 @@
 ¿Que es rvm (Ruby Version Manager )
 
 es un entorno diseñado para gestionar varias instalaciones de ruby
+
+La salida muestra lo que hayamos introducido entre comillas simple
+puts 'hola mundo'.
